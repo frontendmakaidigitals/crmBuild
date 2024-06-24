@@ -1,0 +1,37 @@
+/* styles.css */
+.table-container {
+     
+    position: relative;
+  }
+  
+  
+  
+  
+  .fixed-column {
+    position: sticky;
+    left: 0;
+    /* Ensure this matches your table's background */
+    z-index: 2;
+  }
+  
+  .fixed-column-1 {
+    left: 0;
+  }
+  
+  .fixed-column-2 {
+    left: 33px; /* Adjust according to column width */
+  }
+  
+  .fixed-column-3 {
+    left: 140px; /* Adjust according to column width */
+  }
+  
+  .fixed-column-4 {
+    left: 308px; /* Adjust according to column width */
+  }
+  
+  .fixed-column-5 {
+    left: 473px; /* Adjust according to column width */
+  }
+  
+ 
